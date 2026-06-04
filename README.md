@@ -14,3 +14,8 @@ C언어 학습 기록 저장소입니다.
 | 반복문 | for, while, do-while 반복 구조 |
 
 ## 📁 폴더 구조
+C-EIP/
+├── 자료형과 변수/
+├── IO_Functions_Operation/
+├── Loop_Statement/
+└── Control_Flow_Statement/
