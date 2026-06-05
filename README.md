@@ -1,2 +1,21 @@
-# C-EIP
-정보처리기사-C언어
+# C-EIP 📚
+
+C언어 학습 기록 저장소입니다.
+
+## 📅 학습 기록
+
+### Day 1
+| 주제 | 내용 |
+|------|------|
+| 자료형과 변수 | int, float, char 등 기본 자료형, 변수 선언 및 초기화 |
+| 입출력 함수 | printf, scanf 사용법 |
+| 연산자 | 산술, 관계, 논리, 대입 연산자 |
+| 제어문 | if, else, switch 조건 분기 |
+| 반복문 | for, while, do-while 반복 구조 |
+
+## 📁 폴더 구조
+C-EIP/
+├── 자료형과 변수/
+├── IO_Functions_Operation/
+├── Loop_Statement/
+└── Control_Flow_Statement/
