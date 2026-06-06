@@ -9,5 +9,6 @@ file(GLOB CONTROL_SOURCES   "Control_Flow_Statement/*.c")
 
 foreach(SOURCE ${IO_SOURCES} ${DATATYPE_SOURCES} ${CONTROL_SOURCES})
     get_filename_component(TARGET_NAME ${SOURCE} NAME_WE)
-    add_executable(${TARGET_NAME} ${SOURCE})
+    add_executable(${TARGET_NAME} ${SOURCE}
+            Array_Pointer/Pointer6.c)
 endforeach()
